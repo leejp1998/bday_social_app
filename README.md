@@ -4,13 +4,4 @@ A social network where you can view friend's birthdays and plan a party for them
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I am planning to add features: birthday reminders, adding friends, planning birthday party, etc. Once I have a few features ready, I will publish it on Google Store.
