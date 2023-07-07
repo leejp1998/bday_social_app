@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722575863805",
+    "project_id": "jp-firebase-social-app",
+    "storage_bucket": "jp-firebase-social-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722575863805:android:4c2377d8685f2f7a8ff394",
+        "android_client_info": {
+          "package_name": "com.example.birthday_social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722575863805-lq0l91tcr16b2uhsmb1fipr5jq574ak1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuHlmYbFwywL3turuk5iVLCFjxHfsUtxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722575863805-lq0l91tcr16b2uhsmb1fipr5jq574ak1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
